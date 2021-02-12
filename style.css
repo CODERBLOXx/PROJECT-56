@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+p {
+    font-size: 25px;
+    color: blue;
+    background-color: orangered;
+}
+
+h1 {
+    color: chartreuse;
+    background-color: deepskyblue;
+}
